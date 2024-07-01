@@ -1,2 +1,2 @@
 # Encryptix
-Data Science internship projects.
+Data Science projects for internship.
