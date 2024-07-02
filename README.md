@@ -1,4 +1,4 @@
-# Encryptix_𝒕𝒂𝒔𝒌𝒏𝒐.1
+# Encryptix_taskno.1
 
 Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data.
 
